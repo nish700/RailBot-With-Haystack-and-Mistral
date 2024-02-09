@@ -1,0 +1,7 @@
+haystack-ai
+fastapi
+uvicorn
+PyPDF2
+sentence-transformers
+qdrant-haystack
+llama-cpp-haystack
